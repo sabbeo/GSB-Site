@@ -1,0 +1,87 @@
+body{
+	background:#085394;
+
+}
+.GSB_Logo{
+
+	margin-left: 550px;
+	
+}
+h1{
+	margin-left: 650px;
+	color: white;
+	font-family:"Arial Black"
+}
+h2{
+	margin-left: 20px;
+	color: white;
+	font-family:"Arial Black"
+}
+h3{
+	margin-left: 100px;
+	color: white;
+	font-family:"Arial Black"
+}
+.TextBox{
+	
+	margin-left: 25px;
+
+	
+}
+.IMG{
+
+	padding-left: 550px;
+	
+}
+.TextBox_ID{
+	margin-left: 620px;
+	margin-top: -35px;
+}
+.Connection_Button{
+	margin-top: 30px;
+	margin-left: 685px;
+}
+.TextBox_Form{
+	margin-left: 280px;
+	margin-top: -40px;
+}
+.date_input{
+	margin-left: 100px;
+}
+.valider_Button{
+	margin-left: 650px;
+}
+table
+{
+	border-collapse: collapse;
+	margin-left: 100px;
+}
+
+td, th
+{
+	border: 1px solid black;
+	padding-right: 150px;
+	font-size:  30px;
+	background:white;
+}
+caption{
+	margin-left: 250px;
+	font-size:  40px;
+	width : 500px;
+	color: white;
+	
+}
+.total{
+	margin-left: 680px;
+
+}
+.Retour_Button{
+	margin-down: 100px;
+}
+.envoyer_Button{
+	margin-left: 1175px;
+}
+.container{
+	display: inline-block;
+
+}
